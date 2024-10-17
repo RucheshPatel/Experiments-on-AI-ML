@@ -1,2 +1,2 @@
 # Experiments-on-AI-ML
-Authur - Ruchesh Patel
+Author - Ruchesh Patel
