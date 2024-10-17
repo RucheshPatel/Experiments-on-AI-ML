@@ -1,2 +1,2 @@
 # Experiments-on-AI-ML
-/Authur - Ruchesh Patel
+Authur - Ruchesh Patel
